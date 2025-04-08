@@ -287,13 +287,13 @@
 	}
 
 	.stack-photo:nth-child(1) {
-		background: url('Muniya/muniya.jpg') no-repeat;
+		background: url('..\\Muniya/muniya.jpg') no-repeat;
 		background-size: cover;
 		background-position: 50% 45%;
 		/*transform: translate(-60%, -52%) rotate(calc(-2deg * var(--p)));	*/
 	}
 	.stack-photo:nth-child(2) {
-		background: url('Muniya/muniya2.jpg') no-repeat;
+		background: url('..\\Muniya/muniya2.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 0%;	
 	}
