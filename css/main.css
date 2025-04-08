@@ -287,88 +287,165 @@
 	}
 
 	.stack-photo:nth-child(1) {
-		background: url('..\\images\\Her 14.jpg') no-repeat;
+		background: url('Muniya/muniya.jpg') no-repeat;
 		background-size: cover;
 		background-position: 50% 45%;
 		/*transform: translate(-60%, -52%) rotate(calc(-2deg * var(--p)));	*/
 	}
 	.stack-photo:nth-child(2) {
-		background: url('..\\images\\Her 13.jpg') no-repeat;
+		background: url('Muniya/muniya2.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 0%;	
 	}
 	.stack-photo:nth-child(3) {
-		background: url('..\\images\\Her 12.jpg') no-repeat;
+		background: url('Muniya/muniya3.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 18%;
 	}
 	.stack-photo:nth-child(4) {
-		background: url('..\\images\\Her 11.jpg') no-repeat;
+		background: url('Muniya/muniya4.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 7%;
 		/*visibility: hidden;*/
 		/*transform: translate(-56%, -53%) rotate(calc(5deg * var(--p)));	*/
 	}
 	.stack-photo:nth-child(5) {
-		background: url('..\\images\\Her 10.jpg') no-repeat;
+		background: url('Muniya/muniya5.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 15%;
 	}
 	.stack-photo:nth-child(6) {
-		background: url('..\\images\\Her 9.jpg') no-repeat;
+		background: url('Muniya/muniya6.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 0%;
 		/*visibility: hidden;*/
 		transform: translate(-50%, -50%) rotate(calc(5deg * var(--p)));	
 	}.stack-photo:nth-child(7) {
-		background: url('..\\images\\Her 8.jpg') no-repeat;
+		background: url('Muniya/muniya7.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 0%;
 		transform: translate(-55%, -52%) rotate(calc(-5deg * var(--p)));	
 	}
 	.stack-photo:nth-child(8) {
-		background: url('..\\images\\Her 7.jpeg') no-repeat;
+		background: url('Muniya/muniya8.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 65%;
 	}
 	.stack-photo:nth-child(9) {
-		background: url('..\\images\\Her 6.jpeg') no-repeat;
+		background: url('Muniya/muniya9.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 65%;
 		/*visibility: hidden;*/
 		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
 	}
 	.stack-photo:nth-child(10) {
-		background: url('..\\images\\Her 5.jpg') no-repeat;
+		background: url('Muniya/muniya10.jpg') no-repeat;
 		background-size: 175%;
     	background-position: 50% 2%;
 		/*visibility: hidden;*/
 		transform: translate(-50%, -50%) rotate(calc(5deg * var(--p)));	
 	}
 	.stack-photo:nth-child(11) {
-		background: url('..\\images\\Her 4.jpg') no-repeat;
+		background: url('Muniya/muniya11.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 15%;
 		/*visibility: hidden;*/
 		/*transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	*/
 	}
 	.stack-photo:nth-child(12) {
-		background: url('..\\images\\Her 3.jpg') no-repeat;
+		background: url('Muniya/muniya12.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 10%;
 		/*visibility: hidden;*/
 		transform: translate(-50%, -50%) rotate(calc(5deg * var(--p)));	
 	}
 	.stack-photo:nth-child(13) {
-		background: url('..\\images\\Her 2.jpg') no-repeat;
+		background: url('Muniya/muniya13.jpg') no-repeat;
 		background-size: cover;
 		background-position: 0% 15%;
 		/*visibility: hidden;*/
 		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
 	}
-	.stack-photo:nth-child(14) {
+        .stack-photo:nth-child(13) {
+		background: url('Muniya/muniya14.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+         .stack-photo:nth-child(13) {
+		background: url('Muniya/muniya15.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya16.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya17.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya18.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya19.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya20.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya21.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya22.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya23.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+.stack-photo:nth-child(13) {
+		background: url('Muniya/muniya24.jpg') no-repeat;
+		background-size: cover;
+		background-position: 0% 15%;
+		/*visibility: hidden;*/
+		transform: translate(-55%, -52%) rotate(calc(5deg * var(--p)));	
+	}
+        .stack-photo:nth-child(14) {
 		/*background: linear-gradient(#0000aa05,#0000aa49), url('..\\images\\Her 1.jpg') no-repeat;*/
-		background: url('..\\images\\Her 1.jpg') no-repeat;
+		background: url('Muniya/muniya25.jpg') no-repeat;
 		background-size: 175%;
 		background-position: 50% 25%;
 		transform-origin: right;
