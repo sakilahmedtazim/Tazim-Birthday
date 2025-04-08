@@ -28,7 +28,7 @@ $(document).ready(function(){
 				$(this).addClass('open');
 				setTimeout(function(){
 					alert("Check your bag!♥");
-				},5000)
+				},500)
 			}else{
 				alert("You are not allowed to open this gift now.");
 			}
