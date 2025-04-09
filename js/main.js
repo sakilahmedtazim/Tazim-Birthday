@@ -24,11 +24,11 @@ $(document).ready(function(){
 
 
 		$('.gift-wrap').click(function(){
-			if(d.getDate() > 21){
+			if(d.getDate() > 9){
 				$(this).addClass('open');
 				setTimeout(function(){
 					alert("Check your bag!♥");
-				},60)
+				},5000)
 			}else{
 				alert("You are not allowed to open this gift now.");
 			}
