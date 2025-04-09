@@ -3,7 +3,7 @@ $(document).ready(function(){
 		var aud = document.getElementById('myAudio');
 		$(window).scrollTop = 0;
 		aud.autoplay = true;
-		const d = new Date();
+		const d = new Date(9);
 		aud.muteSlowly = (fun) => {
 				var vol = aud.volume;
 				var v = setInterval(function(){
