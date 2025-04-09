@@ -3,7 +3,7 @@ $(document).ready(function(){
 		var aud = document.getElementById('myAudio');
 		$(window).scrollTop = 0;
 		aud.autoplay = true;
-		const d = new Date(9);
+		const d = new Date();
 		aud.muteSlowly = (fun) => {
 				var vol = aud.volume;
 				var v = setInterval(function(){
@@ -24,7 +24,7 @@ $(document).ready(function(){
 
 
 		$('.gift-wrap').click(function(){
-			if(d.getDate() > 9){
+			if(d.getDate() > 8){
 				$(this).addClass('open');
 				setTimeout(function(){
 					alert("Check your bag!♥");
